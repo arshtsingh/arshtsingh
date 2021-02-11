@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 ✍🏻 &nbsp;[Blog](https://blog.arshtsingh.vercel.app)&nbsp;&nbsp; 🖥 &nbsp;[Website](https://arshtsingh.github.io/arshville/)&nbsp;&nbsp;
 <!--
