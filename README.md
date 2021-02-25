@@ -2,7 +2,6 @@
 <h3> personal sites </h3>
 <p> still under construction! </p>
 <br />
-
 ✍🏻 &nbsp;[Blog](https://blog.arshtsingh.vercel.app)&nbsp;&nbsp; 🖥 &nbsp;[Website](https://arshtsingh.github.io/arshville/)&nbsp;&nbsp;
 
 <h2>socials</h2>
