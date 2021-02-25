@@ -1,9 +1,13 @@
-### Hi there
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ✍🏻 &nbsp;[Blog](https://blog.arshtsingh.vercel.app)&nbsp;&nbsp; 🖥 &nbsp;[Website](https://arshtsingh.github.io/arshville/)&nbsp;&nbsp;
 
-![](https://img.shields.io/github/followers/arshtsingh?style=social)
-![](https://img.shields.io/twitter/follow/__arshville__?style=social)
+<a href="https://twitter.com/__arshville__">
+  <img align="left" alt="arsh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/arsh-singh-8801841b1/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=arshtsingh)](https://github.com/anuraghazra/github-readme-stats)
 
