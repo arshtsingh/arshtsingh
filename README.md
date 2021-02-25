@@ -1,6 +1,15 @@
 ### Hi there
 
 ✍🏻 &nbsp;[Blog](https://blog.arshtsingh.vercel.app)&nbsp;&nbsp; 🖥 &nbsp;[Website](https://arshtsingh.github.io/arshville/)&nbsp;&nbsp;
+
+## Technologies and tools:
+
+![](https://img.shields.io/github/followers/arshtsingh?style=social)
+![](https://img.shields.io/twitter/follow/__arshville__?style=social)
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=arshtsingh)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshtsingh&hide=python,vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **arshtsingh/arshtsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
