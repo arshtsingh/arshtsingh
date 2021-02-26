@@ -1,4 +1,6 @@
-<h1> hi there <img src="https://media.giphy.com/media/UoYsQekqcbx7Uu62Sy/giphy.gif" width="100" style="float:right"/> </h1> 
+<h1> hi there 
+  <img align="right" src="https://media.giphy.com/media/UoYsQekqcbx7Uu62Sy/giphy.gif" width="100"/>
+</h1>
 <h2> personal sites </h2>
 
 ✍🏻 &nbsp;[Blog](https://blog.arshtsingh.vercel.app)&nbsp;&nbsp; 🖥 &nbsp;[Website](https://arshtsingh.github.io/arshville/)&nbsp;&nbsp;
@@ -12,6 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshtsingh&hide=shell&theme=tokyonight&show_icons=true,vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a>
+<h1>
   <img align="center" src="https://media.giphy.com/media/PjmDwyt1q4rImdcyTV/giphy.gif" width="250" />
-</a>
+</h1>
