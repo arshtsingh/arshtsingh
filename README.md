@@ -13,11 +13,10 @@
   <a href="https://www.linkedin.com/in/arsh-singh-8801841b1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <h2> stats </h2>
-
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshtsingh&theme=tokyonight&show_icons=true,vue&line_height=27&hide=shell,html&count_private=true" alt="Zhenye's GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=arshtsingh&theme=tokyonight&show_icons=true&line_height=27&count_private=true" alt="Zhenye's GitHub Stats" />
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshtsingh&theme=tokyonight&show_icons=true,vue&line_height=27&hide=shell,html&count_private=true" alt="Zhenye's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arshtsingh&theme=tokyonight&show_icons=true&line_height=27&count_private=true" alt="Zhenye's GitHub Stats" />
 </a>
