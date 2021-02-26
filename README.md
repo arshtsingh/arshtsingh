@@ -1,4 +1,4 @@
-<h1> Hi there <img src="https://gph.is/st/EpbZQNY" width="100px"> </h1>
+<h1> Hi there <img src="https://media.giphy.com/media/UoYsQekqcbx7Uu62Sy/giphy.gif" width="100px"> </h1>
 <h2> personal sites </h2>
 
 ✍🏻 &nbsp;[Blog](https://blog.arshtsingh.vercel.app)&nbsp;&nbsp; 🖥 &nbsp;[Website](https://arshtsingh.github.io/arshville/)&nbsp;&nbsp;
