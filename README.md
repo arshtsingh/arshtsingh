@@ -12,4 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshtsingh&hide=shell&theme=tokyonight&show_icons=true,vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://media.giphy.com/media/PjmDwyt1q4rImdcyTV/giphy.gif" width="100" style="float:right"/>
+<a>
+  <img align="center" src="https://media.giphy.com/media/PjmDwyt1q4rImdcyTV/giphy.gif" width="250" />
+</a>
