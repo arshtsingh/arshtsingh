@@ -15,7 +15,7 @@
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=arshtsingh&theme=tokyonight&show_icons=true&line_height=27&count_private=true" alt="Zhenye's GitHub Stats" />
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshtsingh&theme=tokyonight&show_icons=true,vue&line_height=27&hide=shell,html&count_private=true" alt="Zhenye's GitHub Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshtsingh&theme=tokyonight&show_icons=true,vue&line_height=27&hide=shell,html" alt="Zhenye's GitHub Stats" />
 </a>
 
 </a>
