@@ -13,7 +13,3 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=arshtsingh&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshtsingh&hide=shell&theme=tokyonight&show_icons=true,vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<h1>
-  <img align="center" src="https://media.giphy.com/media/PjmDwyt1q4rImdcyTV/giphy.gif" width="250" />
-</h1>
