@@ -1,5 +1,4 @@
 # Hi there <img src="https://media.giphy.com/media/3IUHsSnM551gil3qb3/giphy.gif" width="25px">
-<br />
 <h3> personal sites </h3>
 <p> still under construction! </p>
 <br />
@@ -11,7 +10,7 @@
 </p>
 <br />
 
-📈 My GitHub Stats
+<h2> 📈 My GitHub Stats </h2>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=arshtsingh&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
