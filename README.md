@@ -8,7 +8,7 @@
 </p>
 <br />
 
-<h2> 📈 My GitHub Stats </h2>
+<h2> stats </h2>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=arshtsingh&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
