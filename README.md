@@ -3,8 +3,7 @@
 </h1>
 <h2> personal sites </h2>
 <p>
-  <a href="https://blog.arshtsingh.vercel.app" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-blog-EE3E5D?style=flat-square" /></a> 
-  <a href="https://arshtsingh.github.io/arshville/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-arshville-0073B1?style=flat-square" /></a> 
+  https://y.at/💪👁️💋👁️👌
 </p>
 <h2>socials</h2>
 <p>
